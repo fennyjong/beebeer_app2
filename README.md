@@ -11,13 +11,6 @@ dokumentasi fitur-fitur:
 
 [LaporanBeebeersApp_MobProg.pdf](https://github.com/fennyjong/beebeer_app2/files/13331273/LaporanBeebeersApp_MobProg.pdf)
 
-
-## Screenshots
-
-
-## Video Demo DeepSpace
-
-
 ## Getting Started
 1. **Clone the Repository**
 2. **Flutter pub get dan run**
